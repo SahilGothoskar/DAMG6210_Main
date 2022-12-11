@@ -1,2 +1,8 @@
 # Google App Engine generated folder
 appengine-generated/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
